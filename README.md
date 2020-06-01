@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 # ios
-[Link](<itms-services://?action=download-manifest&url=https://github.com/polang11/polang11.github.io/blob/master/simacs.plist)
+[Link](<https://github.com/polang11/polang11.github.io/blob/master/simacs.plist)
 - Bulleted
 - List
 
